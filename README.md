@@ -9,3 +9,5 @@ A intenção desse projeto é poder dar Play/Pause nas video aulas do curso Gost
 Existem algums Arduinos que conseguem simular um teclado USB, porém eu não tenho nenhum desses e como este projeto foi criado em uma sexta feira de feriado durante a quarentena, sair para comprar componentes estava fora de questão.  
   
 Ao pressionar um simples push button ligado em uma porta digital do arduino, este envia um comando por serial para uma aplicação em VB.net que por sua vez simula o comando de Play/Pause.
+  
+![Image of the project](https://photos.app.goo.gl/z2em7oWLaZD4RVEb6)
