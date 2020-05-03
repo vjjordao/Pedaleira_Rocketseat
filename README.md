@@ -10,4 +10,5 @@ Existem algums Arduinos que conseguem simular um teclado USB, porém eu não ten
   
 Ao pressionar um simples push button ligado em uma porta digital do arduino, este envia um comando por serial para uma aplicação em VB.net que por sua vez simula o comando de Play/Pause.
   
-![Image of the project](https://photos.app.goo.gl/z2em7oWLaZD4RVEb6)
+![IMG_Projeto](https://user-images.githubusercontent.com/54770871/80917659-f5cfad00-8d36-11ea-92b3-420ecf68cebd.jpg)
+
