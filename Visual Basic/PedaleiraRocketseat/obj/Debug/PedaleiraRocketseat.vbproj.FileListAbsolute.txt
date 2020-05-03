@@ -1,0 +1,11 @@
+D:\Google Drive\Arquivo\VB\PedaleiraRocketseat\PedaleiraRocketseat\bin\Debug\PedaleiraRocketseat.exe.config
+D:\Google Drive\Arquivo\VB\PedaleiraRocketseat\PedaleiraRocketseat\bin\Debug\PedaleiraRocketseat.exe
+D:\Google Drive\Arquivo\VB\PedaleiraRocketseat\PedaleiraRocketseat\bin\Debug\PedaleiraRocketseat.pdb
+D:\Google Drive\Arquivo\VB\PedaleiraRocketseat\PedaleiraRocketseat\bin\Debug\PedaleiraRocketseat.xml
+D:\Google Drive\Arquivo\VB\PedaleiraRocketseat\PedaleiraRocketseat\obj\Debug\PedaleiraRocketseat.vbprojResolveAssemblyReference.cache
+D:\Google Drive\Arquivo\VB\PedaleiraRocketseat\PedaleiraRocketseat\obj\Debug\WindowsApplication1.Resources.resources
+D:\Google Drive\Arquivo\VB\PedaleiraRocketseat\PedaleiraRocketseat\obj\Debug\PedaleiraRocketseat.vbproj.GenerateResource.Cache
+D:\Google Drive\Arquivo\VB\PedaleiraRocketseat\PedaleiraRocketseat\obj\Debug\PedaleiraRocketseat.exe
+D:\Google Drive\Arquivo\VB\PedaleiraRocketseat\PedaleiraRocketseat\obj\Debug\PedaleiraRocketseat.xml
+D:\Google Drive\Arquivo\VB\PedaleiraRocketseat\PedaleiraRocketseat\obj\Debug\PedaleiraRocketseat.pdb
+D:\Google Drive\Arquivo\VB\PedaleiraRocketseat\PedaleiraRocketseat\obj\Debug\WindowsApplication1.Form1.resources
